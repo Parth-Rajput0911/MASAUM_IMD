@@ -1,0 +1,12 @@
+{
+  "name": "MAUSAM IMD",
+  "description": "AI-powered, context-aware personalized weather intelligence mobile application.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
